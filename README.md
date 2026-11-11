@@ -1,6 +1,6 @@
 # crocante_backend
 
-API del sistema de venta de comida rápida Crocante (Spring Boot 3.5, Java 21, PostgreSQL). Se construye por pasos durante las clases; cada paso es un commit con su tag.
+API del sistema de venta de comida rápida Crocante (Spring Boot 3.5, Java 21, PostgreSQL).
 
 | Tag | Qué se agrega |
 |---|---|
